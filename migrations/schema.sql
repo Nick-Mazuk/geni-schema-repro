@@ -1,0 +1,1 @@
+CREATE TABLE schema_migrations (id VARCHAR(255) PRIMARY KEY)
